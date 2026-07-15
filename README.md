@@ -12,7 +12,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Educational-blueviolet?style=for-the-badge)
 
-# Footprinting & Reconnaissance Lab
+
 
 ### Cybersecurity Information Gathering & OSINT Project
 
